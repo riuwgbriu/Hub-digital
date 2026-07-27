@@ -18,7 +18,7 @@ link:"https://SEU-LINK-SHOPEE"
 categoria:"Kiwify",
 titulo:"Curso em Destaque",
 descricao:"Meu curso recomendado na Kiwify.",
-link:"https://SEU-LINK-KIWIFY"
+link:"https://kiwify.app/cXGzozb?afid=5A62Ucvd"
 },
 
 {
@@ -46,14 +46,14 @@ link:"https://SEU-LINK"
 categoria:"Projetos",
 titulo:"Senhor da Guerra",
 descricao:"Meu jogo em desenvolvimento.",
-link:"https://SEU-LINK-GITHUB-PAGES"
+link:"https://riuwgbriu.github.io/Senhor-da-Guerra-/"
 },
 
 {
 categoria:"Redes Sociais",
 titulo:"Instagram",
 descricao:"Siga meu perfil.",
-link:"https://instagram.com/SEUUSUARIO"
+link:"https://www.instagram.com/lopes_produtos_e_servicos?igsh=dTF2OHR3d3g1M2Ns"
 }
 
 ];
