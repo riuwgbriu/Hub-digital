@@ -11,7 +11,7 @@ const produtos = [
 categoria:"Shopee",
 titulo:"Minha Loja Shopee",
 descricao:"Confira minhas recomendações na Shopee.",
-link:"https://SEU-LINK-SHOPEE"
+link:"https://collshp.com/lopes_produtos?view=storefront"
 },
 
 {
@@ -23,9 +23,9 @@ link:"https://kiwify.app/cXGzozb?afid=5A62Ucvd"
 
 {
 categoria:"Cursos",
-titulo:"Curso de Marketing",
-descricao:"Aprenda marketing digital.",
-link:"https://SEU-LINK"
+titulo:"facebook ads",
+descricao:"Curso completo de facebook ads.",
+link:"https://drive.google.com/drive/folders/10jmEr6jNWCGEEJ2CN0T337Zr2_ujGgck"
 },
 
 {
