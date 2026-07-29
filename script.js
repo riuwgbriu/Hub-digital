@@ -7,6 +7,8 @@
 
 const produtos = [
 
+
+
 {
 categoria:"Shopee",
 titulo:"Minha Loja Shopee",
@@ -54,7 +56,14 @@ categoria:"Redes Sociais",
 titulo:"Instagram",
 descricao:"Siga meu perfil.",
 link:"https://www.instagram.com/lopes_produtos_e_servicos?igsh=dTF2OHR3d3g1M2Ns"
-}
+},
+
+{
+categoria:"Fabrica de videos",
+titulo:"Fabrica de videos virais ",
+descricao:"Metodo (F.V.V.)",
+link:"https://kiwify.app/cXGzozb?afid=5A62Ucvd"
+},
 
 ];
 
@@ -62,14 +71,15 @@ link:"https://www.instagram.com/lopes_produtos_e_servicos?igsh=dTF2OHR3d3g1M2Ns"
 // Categorias
 //===============================
 
-const categorias=[
+const categorias=[ 
 "Shopee",
 "Kiwify",
 "Cursos",
 "Automotivo",
 "Tecnologia",
 "Projetos",
-"Redes Sociais"
+"Redes Sociais",
+"Fabrica de videos",
 ];
 
 const icones={
@@ -79,7 +89,9 @@ const icones={
 "Automotivo":"🚗",
 "Tecnologia":"💻",
 "Projetos":"🎮",
-"Redes Sociais":"📱"
+"Redes Sociais":"📱",
+"Fabrica de videos":"\uD83C\uDFA5",
+
 };
 
 const listaCategorias=document.getElementById("listaCategorias");
